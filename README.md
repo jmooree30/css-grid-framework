@@ -37,7 +37,7 @@ This is my personal implementation of a css 12 column grid framework.
 * Include the css reset inside the head tag ```<link href="normalize.css">```
 * Include the stylesheet ```<link rel="stylesheet" href="stylesheets/output.css" type="text/css">```
 * Make sure in each row that the sum of the columns is 12.
-* Default gutters(padding between columns) is set to 10px by default. 
+* Default gutters(padding between each column) is set to 10px by default. 
 
 #### Breakpoints:
 Currently there is only one breakpoint that is set for any screen less than 800px.
