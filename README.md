@@ -12,7 +12,8 @@ This is my personal implementation of a css 12 column grid framework.
 ```
 <!Doctype html>
 <html>
-<head>
+<head> 
+  <meta charset="utf-8">
 	<title>CSS-Grid-Framework</title>
 	<link href="normalize.css">
 	<link rel="stylesheet" href="stylesheets/output.css" type="text/css">
