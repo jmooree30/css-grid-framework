@@ -40,7 +40,7 @@ This is my personal implementation of a css 12 column grid framework.
 * Default gutters(padding between each column) is set to 10px by default. 
 
 #### Breakpoints:
-Currently there is only one breakpoint that is set for any screen less than 800px.
+Breakpoint is set for any screen less than 800px.
 ```
 @media screen and(max-width:800px){
 	[class*="col-"]{width:100%;}
