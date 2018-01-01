@@ -67,3 +67,7 @@
 .col-12{
 	width:99.998%;
 }
+
+@media screen and(max-width:800px){
+	[class*="col-"]{width:100%;}
+}
