@@ -1,0 +1,104 @@
+h2{
+  color: #4a4a4a;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h3{
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #4a4a4a;
+}
+
+.header{
+color: rgba(74,74,74,0.7);
+text-decoration: none;
+letter-spacing: 0.2px;
+font-size: 1em;
+font-weight: bold;
+font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+padding-left:15px;
+padding-right: 15px;
+}
+
+.logo{
+  position: absolute;
+  top:45px;
+  left: 70px;
+  -webkit-box-flex: 1;
+  flex: 1;
+  color: #cc9543;
+  text-transform: uppercase;
+  font-family: "Norse";
+  letter-spacing: 0.4px;
+  font-weight: bold;
+  font-size: 1.3em;
+  display: inline-block;
+  padding-left: 0.5em;
+}
+
+#center{
+  text-align: center;
+}
+
+#row-1{
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #ce973e;
+  font-size: 2.25rem;
+  padding-bottom:10px;
+}
+
+#row-1-1{
+  color: rgba(74,74,74,0.7);
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding-bottom: 20px;
+}
+
+#row-3{
+  color: rgba(74,74,74,0.7);
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  padding-top: 40px;
+  padding-bottom: 60px;
+}
+
+#background{
+  background: #f3f3f3;
+}
+
+#white{
+  margin:12px;
+  background:white;
+  text-align: center;
+}
+
+.button{
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #6abfc3;
+  box-shadow: 0 0.05em 0.25em 0 rgba(0,0,0,0.5);
+  color: #fff;
+  display: inline-block;
+  font-size: 1em;
+  font-weight: bold;
+  letter-spacing: 0.2px;
+  padding: 1rem 3.5rem;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  border: none;
+}
+
+.button2{
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #cc9543;
+  border-radius: 0.2em;
+  box-shadow: 0 0.05em 0.25em 0 rgba(0,0,0,0.5);
+  color: #fff;
+  display: inline-block;
+  font-size: 1em;
+  font-weight: bold;
+  letter-spacing: 0.2px;
+  padding: 1rem 3.5rem;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  border: none;
+}
