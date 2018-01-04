@@ -47,3 +47,6 @@ Breakpoint is set for any screen less than 800px.
 	[class*="col-"]{width:100%;}
 }
 ```
+
+### Sample
+![Image Hover Text](/ss.png)
