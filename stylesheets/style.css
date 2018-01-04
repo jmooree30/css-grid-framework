@@ -60,6 +60,12 @@ padding-right: 15px;
   padding-bottom: 60px;
 }
 
+#row-4{
+  color: rgba(74,74,74,0.7);
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 24px;
+}
+
 #background{
   background: #f3f3f3;
 }
@@ -101,4 +107,63 @@ padding-right: 15px;
   text-decoration: none;
   cursor: pointer;
   border: none;
+}
+
+.success{
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+}
+
+.success-names{
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #cc9543;
+}
+
+.underline{
+  color: rgba(74,74,74,0.7);
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  text-decoration: underline;
+  height: 100px;
+}
+
+.learn{
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 2.25rem;
+  padding-bottom:10px;
+  color: rgba(74,74,74,0.7);
+}
+
+.hlogo{
+  color: #cc9543;
+  text-transform: uppercase;
+  font-family: "Norse";
+  letter-spacing: 0.4px;
+  font-weight: bold;
+  font-size: 1.2em;
+  display: inline-block;
+  padding-left: 0.5em;
+  float: left;
+  padding-top: 35px;
+}
+
+.footeri{
+  float: right;
+}
+
+[class*="fa"]{
+  color: #cc9543;
+  font-size: 30px !important;
+  padding-top: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.footerlinks{
+  color: rgba(74,74,74,0.7);
+font-weight: bold;
+text-decoration: none;
+margin: 0;
+font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
