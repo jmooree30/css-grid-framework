@@ -9,14 +9,14 @@ h3{
 }
 
 .header{
-color: rgba(74,74,74,0.7);
-text-decoration: none;
-letter-spacing: 0.2px;
-font-size: 1em;
-font-weight: bold;
-font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-padding-left:15px;
-padding-right: 15px;
+  color: rgba(74,74,74,0.7); 
+  text-decoration: none;
+  letter-spacing: 0.2px;
+  font-size: 1em;
+  font-weight: bold;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding-left:15px;
+  padding-right: 15px;
 }
 
 .logo{
@@ -162,8 +162,8 @@ padding-right: 15px;
 
 .footerlinks{
   color: rgba(74,74,74,0.7);
-font-weight: bold;
-text-decoration: none;
-margin: 0;
-font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+  margin: 0;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
